@@ -1,0 +1,210 @@
+*{
+    vertical-align: baseline;
+    border: 0 none;
+    outline: 0;
+    /* padding: 0; */
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 970px;
+    height: 900px;
+    background-color: #245176;
+}
+.header{
+    height: 120px;
+    width: 970 px;
+}
+.navigation{
+    height: 40px;
+    width: 850px;
+    margin: 10px;
+    margin-left: 57px;
+    border-radius: 10px;
+    background-color: #487eac;
+    color: white;
+    box-shadow: 5px 5px 5px #2E2C2C;
+    padding-top: 10px;    
+}
+.body1{
+    height: 340px;
+    width: 970px;
+}
+.body2{
+    height: 250px;
+    width: 969px;
+    background-color: white;
+    border-top: 3px solid black;
+    border-right: 1px solid black;
+}
+.footer{
+    height: 120px;
+    width: 970px;
+    padding-top: 20px;
+}
+.logo{
+    height: 100px;
+    margin-top: 10px;
+    display: inline-block;
+}
+.searchbar{
+    height: 130px;
+    width: 405px;
+    display: inline-block;
+    margin-left: 200px;
+    vertical-align: top;
+}
+.searchwrapper{
+    width: 285px;
+    height: 65px;
+    background-color: #444444;
+    box-shadow: 5px 5px 5px #2E2C2C;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+.searchfield{
+    margin-top:15px;
+    margin-left: 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.sizing{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 13px;
+    Margin-left: 230px;
+    color: white;
+}
+.button{
+    display: inline-block;
+    background-color: #245176;
+    border: 2px solid #bebebf; 
+    height: 23px;
+    width: 37px;
+    border-radius: 5px;
+    color: white;
+    box-shadow: 2px 2px 2px #2E2C2C;
+    text-align: center;
+    font-size: 13px;
+    margin-top: 10px;
+    vertical-align: middle;
+    padding-top: 3px;
+}
+.yellowline{
+    color: yellow;
+    font-style: underline;
+}
+
+.black{
+    color: black;
+}
+.navigation a {
+    display: inline;
+    margin-left: 34px;
+    font-size: 23px;
+    color: white; 
+    text-decoration: none; 
+}
+.linklist{
+    display: inline-block;
+    height: 340px;
+    width: 300px;
+    vertical-align: top;
+    padding-top: 15px;
+    font-style: underline;
+}
+.links{
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    list-style-type: disc;
+    margin-top: 10px;
+    margin-right: 40px;
+    font-style: underline;
+}
+.contentblock{
+    height: 340px;
+    width: 655px;
+    display: inline-block;
+    padding-top: 10px;
+}
+.description{
+    display: inline;
+}
+.zen{
+    display: inline;
+}
+.gettingstarted{
+    height: 250px;
+    width: 380px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-size: 15px;
+    margin-left: 40px;
+}
+.applications{
+    height: 250px;
+    width: 380px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-size: 15px;
+    margin-left: 110px;
+}
+#ulfix{
+    list-style-position: inside;
+}
+#ulfix a {
+    color: white;
+}
+.description{
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+    font-size: 15px;
+}
+.zen{
+    color: yellow;
+    font-style: italic;
+    font-size:19px;
+    text-align: center;
+    margin-top: 10px;
+    display: block;
+}
+.notzen{
+    color: white;
+    font-style: normal;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 16px;
+}
+.b2text{
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 17px;
+}
+.bluelist{
+    color:#8cb7dc;
+}
+.pypi{
+    color: #8cb7dc;
+    font-size: 12px;
+}
+.help p {
+    font-size: 20px;
+    display: inline;
+    margin-left: 83px;
+    margin-top: 30px;
+    text-align: center;
+    color: #8cb7dc;
+}
+.copyright p {
+    font-size: 9px;
+    text-align: center;
+    color:#8cb7dc;
+    margin-top: 10px;
+}
